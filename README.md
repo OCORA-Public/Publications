@@ -1,5 +1,4 @@
-* ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA%20Questions.jpg)
-
+![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA%20Questions.jpg)
 ## Overview OCORA repositories and short guideline for questions, comments and reviews
 * Edited by Baseliyos Jacob, DB Cargo AG.
 * Overview of the open OCORA repositories as working platform within railway sector and every interest party. 
