@@ -31,7 +31,7 @@ Please register [here](https://github.com) and send your username for access to 
 * ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/Issues.JPG)
 * Click on new issue, title the issue, leave a comment in the issue, label it and assign to somebody who is registrated within the repository.
 * Click on submit new issue.
-* ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/Issuetracker.JPG)
+* ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/Issuetracker.png)
 
 ## How to check and download OCORA documents and artefacts
 * Go to the requested repository.
