@@ -2,8 +2,8 @@
 ## Overview OCORA repositories and short guideline for questions, comments and reviews
 * Edited by Baseliyos Jacob, DB Cargo AG.
 * Overview of the open OCORA repositories as working platform within railway sector and every interest party. 
-* This Guideline is for every interest party who has questions to the OCORA deliverables or wants to collaborate by reviewing, improving or working avtively on the OCORA delvierables.
-* For active collaboration (within the OCORA framework) the OCORA Code of Conduct and Member Agreement must be accepted ans signed.  In case of interest for active collaboration and you are a eligible to become a partner according to the OCORA Code of conduct, please drop a "interest of becomming a OCORA member by mail" to (rolf.muehlemann2@sbb.ch).
+* This Guideline is for every interest party who has questions to the OCORA deliverables or wants to collaborate by reviewing, improving or working actively on the OCORA deliverables.
+* For active collaboration (within the OCORA framework) the OCORA Code of Conduct and Member Agreement must be accepted and signed.  In case of interest for active collaboration and you are a eligible to become a partner according to the OCORA Code of conduct, please drop a "interest of becoming a OCORA member by mail" to (rolf.muehlemann2@sbb.ch).
 * All OCORA deliverables and work will be published and licensed under the dual licensing Terms EUPL 1.2 (Commission Implementing Decision (EU) 2017/863 of 18 May 2017) and the terms and condition of the Attributions- ShareAlike 3.0 Unported license or its national version (in particular CC-BY -SA 3.0 DE).
 * Feel free to help me to improve this guiding page. Please document your helping and welcome proposals [here](https://github.com/BaseliyosJacob/General-Management/issues/1).
 
