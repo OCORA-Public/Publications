@@ -9,7 +9,7 @@
 
 ## How to register to the OCORA repositories (need first to register):
 * **If you have already a git-hub username and registration:**
-Please send me your git-hub username and the requested repository you need access to (baseliyos.jacob@deutschebbahn.com and rolf.muehlemann2@sbb.ch). Access will grant as soon requirements are fulfilled.
+Please send me your git-hub username and the requested repository you need access to (baseliyos.jacob@deutschebahn.com and rolf.muehlemann2@sbb.ch). Access will grant as soon requirements are fulfilled.
 Requirements to be reviewed in the table below.
 As soon your request has been approved by the admin (baseliyos.jacob@deutschebahn.com and rolf.muehlemann2@sbb.ch), you will receive an invitation email, which need to be confirmed. Access is grant as soon you confirm the invitation and you are logged in.
 * **Username: Please assemble your username by using Surname + lastname + company to have full transparency about the user e.g. BaseliyosJacobDB!!!**
