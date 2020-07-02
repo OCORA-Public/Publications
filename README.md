@@ -7,6 +7,14 @@
 * All OCORA deliverables and work will be published and licensed under the dual licensing Terms EUPL 1.2 (Commission Implementing Decision (EU) 2017/863 of 18 May 2017) and the terms and condition of the Attributions- ShareAlike 3.0 Unported license or its national version (in particular CC-BY -SA 3.0 DE).
 * Feel free to help me to improve this guiding page. Please document your helping and welcome proposals [here](https://github.com/BaseliyosJacob/General-Management/issues/1).
 
+## Overview OCORA Change Request Management Process
+* 1. Apply, Implement, Review, ... OCORA release under EUPL 1.2. 
+* 2. Report findings, improvements, CR´s, ... via
+* 3.1. Formal review with OCORA via direct request (please contact rolf.muehlemann2@sbb.ch)
+* 3.2. Formal review with OCORA via issue tracker (first register - see below on How to register to the OCORA respositories and then drop an issue [here](https://github.com/BaseliyosJacob/General-Management/issues/1).
+* As next steps see figure below
+![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA_CRMP_1.png)
+
 ## How to register to the OCORA repositories (need first to register):
 * **If you have already a git-hub username and registration:**
 Please send me your git-hub username and the requested repository you need access to (baseliyos.jacob@deutschebahn.com and rolf.muehlemann2@sbb.ch). Access will grant as soon requirements are fulfilled.
