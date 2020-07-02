@@ -11,9 +11,9 @@
 * I. Apply, Implement, Review, ... OCORA release under EUPL 1.2. 
 * II. Report findings, improvements, CR´s, ... 
 * III.a. Formal review with OCORA via direct request (please contact rolf.muehlemann2@sbb.ch)
-* III.b. Formal review with OCORA via issue tracker (first register - see below on How to register to the OCORA respositories and then drop an issue [here](https://github.com/BaseliyosJacob/General-Management/issues/1).
+* III.b. Formal review with OCORA via issue tracker - drop an issue [here](https://github.com/BaseliyosJacob/General-Management/issues/1). See below for further instructions to register for an issue tracker, generate an issue, ... .
 * As next steps see figure below
-![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA_CRMP_1.png)
+![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA_CRMP_1.jpg)
 
 ## How to register to the OCORA repositories (need first to register):
 * **If you have already a git-hub username and registration:**
