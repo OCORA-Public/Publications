@@ -8,8 +8,8 @@
 * Feel free to help me to improve this guiding page. Please document your helping and welcome proposals [here](https://github.com/BaseliyosJacob/General-Management/issues/1).
 
 ## Overview OCORA Change Request Management Process
-* 1. Apply, Implement, Review, ... OCORA release under EUPL 1.2. 
-* 2. Report findings, improvements, CR´s, ... 
+*   1. Apply, Implement, Review, ... OCORA release under EUPL 1.2. 
+*   2. Report findings, improvements, CR´s, ... 
 * 3.1. Formal review with OCORA via direct request (please contact rolf.muehlemann2@sbb.ch)
 * 3.2. Formal review with OCORA via issue tracker (first register - see below on How to register to the OCORA respositories and then drop an issue [here](https://github.com/BaseliyosJacob/General-Management/issues/1).
 * As next steps see figure below
