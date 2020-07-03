@@ -10,7 +10,7 @@
 ## Overview OCORA Change Request Management Process
 * I. Apply, Implement, Review, ... OCORA release under EUPL 1.2. 
 * II. Report findings, improvements, CR´s, ... 
-* III.a. Formal review with OCORA via direct request by using the OCORA feedback sheet [here](https://github.com/OCORA-Public/Publication/blob/master/OCORA%20Beta%20Release/10_Release%20Information/OCORA-10-003-Beta_Feedback-Form.xlsx) (please contact rolf.muehlemann2@sbb.ch)
+* III.a. Formal review with OCORA via direct request by using the OCORA feedback form [here](https://github.com/OCORA-Public/Publication/blob/master/OCORA%20Beta%20Release/10_Release%20Information/OCORA-10-003-Beta_Feedback-Form.xlsx) (please contact rolf.muehlemann2@sbb.ch)
 * III.b. Formal review with OCORA via issue tracker - drop an issue [here](https://github.com/BaseliyosJacob/General-Management/issues/1). See below for further instructions to register for an issue tracker, generate an issue, ... .
 * As next steps see figure below
 ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA_CRMP_1.jpg)
