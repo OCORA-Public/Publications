@@ -1,3 +1,8 @@
+
+## OCORA rquirements for licence model and publication
+* Edited by Baseliyos Jacob, DB Cargo AG.
+* All OCORA deliverables and deliverables refereing to OCORA licence requirements will be published and licensed under the dual licensing Terms EUPL 1.2 (Commission Implementing Decision (EU) 2017/863 of 18 May 2017) and the terms and condition of the Attributions- ShareAlike 3.0 Unported license or its national version (in particular CC-BY -SA 3.0 DE).
+
 ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA%20Questions.jpg)
 ## Overview OCORA repositories and short guideline for questions, comments and reviews
 * Edited by Baseliyos Jacob, DB Cargo AG.
