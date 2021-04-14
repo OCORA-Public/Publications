@@ -1,4 +1,9 @@
 ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/OCORA%20Questions.jpg)
+## OCORA rquirements for licence model and publication
+* Edited by Baseliyos Jacob, DB Cargo AG.
+* All OCORA deliverables or artefacts e.g. within tender documents, guidelines, feedback, ... refereing to OCORA licence requirements must be published and licensed under the dual licensing Terms EUPL 1.2 (Commission Implementing Decision (EU) 2017/863 of 18 May 2017) and the terms and condition of the Attributions- ShareAlike 3.0 Unported license or its national version (in particular CC-BY -SA 3.0 DE)
+* Any questions to the OCORA licence model and publication, please drop a "Question to the OCORA licence model and publication by mail" to (rolf.muehlemann2@sbb.ch or baseliyos.jacob@deutschebahn.com).
+
 ## Overview OCORA repositories and short guideline for questions, comments and reviews
 * Edited by Baseliyos Jacob, DB Cargo AG.
 * Overview of the open OCORA repositories as working platform within railway sector and every interest party. 
