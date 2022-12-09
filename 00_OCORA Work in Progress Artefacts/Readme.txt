@@ -1,2 +1,0 @@
-In addition to the official OCORA releases, frequent publications of the Capella Model shall facilitate discussions with other initiatives (e.g. RCA, X2Rail4, LinX4Rail) and/or potential suppliers without overreaching someone. 
-Model updates will be available for download on OCORA public GitHub in this folder.
