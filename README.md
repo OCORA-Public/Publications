@@ -54,4 +54,3 @@ Please register [here](https://github.com) and send your username for access to 
 * Click on the requested folder.
 * To download click on the requested document/artefact and click on download or raw.
 * ![](https://github.com/BaseliyosJacob/General-Management/blob/master/Guideline/Download.JPG)
-
